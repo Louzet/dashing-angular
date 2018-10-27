@@ -1,5 +1,6 @@
 [![Coverage Status](https://coveralls.io/repos/github/Louzet/dashing-angular/badge.svg?branch=master)](https://coveralls.io/github/Louzet/dashing-angular?branch=master)
 [![Build Status](https://travis-ci.org/Louzet/dashing-angular.svg?branch=master)](https://travis-ci.org/Louzet/dashing-angular)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fd71991a78334945b357cdd576eaab7a)](https://www.codacy.com/app/Louzet/dashing-angular?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Louzet/dashing-angular&amp;utm_campaign=Badge_Grade)
 
 # DashingAngular
 
